@@ -1,0 +1,16 @@
+import IconAkun from "./Akun.svg";
+import IconHome from "./Home.svg";
+import IconPesanan from "./Pesanan.svg";
+import IconAkunAktive from "./AkunActive.svg";
+import IconHomeAktive from "./HomeActive.svg";
+import IconPesananAktive from "./PesananActive.svg";
+import GetPoint from "./GetPoint.svg";
+import AddSaldo from "./AddSaldo.svg";
+import Kiloan from "./Kiloan.svg";
+import Satuan from "./Satuan.svg";
+import Vip from "./Vip.svg";
+import Karpet from "./karpet.svg";
+import Setrika from "./Setrika.svg";
+import Express from "./Express.svg";
+import IconPesananLoundry from "./Icon Pesanan.svg";
+export { IconAkun, IconHome, IconPesanan, IconAkunAktive, IconHomeAktive, IconPesananAktive, GetPoint, AddSaldo, Kiloan, Satuan, Vip, Karpet, Setrika, Express, IconPesananLoundry };
